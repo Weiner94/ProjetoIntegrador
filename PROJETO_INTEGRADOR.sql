@@ -1,6 +1,6 @@
-drop database if exists projetoIntegrador;
-create database projetoIntegrador ;
-use projetoIntegrador;
+drop database if exists bancoDados;
+create database bancoDados ;
+use bancoDados;
 
 /*-------------------------------------------------------------------------------------------ELEÇÕES 2008 -------------------------------------------------------------------------------------------------------------------*/
 CREATE TABLE ELEICAO_2008_PREFEITO_VEREADOR (	
